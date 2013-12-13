@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/tab_1"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/tab_1"/>
+    
+    <item
+        android:id="@+id/tab_2"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/tab_2"/>
+    
+    <item
+        android:id="@+id/tab_3"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/tab_3"/>
+    
+    <item
+        android:id="@+id/tab_4"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/tab_4"/>
+    
+
+</menu>
